@@ -1,0 +1,29 @@
+.wpotp-phone-number {
+    margin-top: 1em;
+}
+
+.wpotp-verification-code, .wpotp-phone-number {
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.wpotp-phone-number .spinner, .wpotp-verification-code .spinner {
+    margin: 0 0 0 5px;
+}
+
+.wp-core-ui .wpotp-phone-number .button, .wp-core-ui .wpotp-verification-code .button {
+    margin-left: 5px;
+}
+
+#wpotp-show-phone {
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+#wpotp-show-phone .spinner {
+    margin: 0 5px 0 0;
+}
+
+#wpotp-show-phone > * {
+    margin-right: 5px;
+}

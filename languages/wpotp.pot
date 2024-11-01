@@ -1,0 +1,180 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WP One Time Password\n"
+"POT-Creation-Date: 2022-11-03 11:09-0400\n"
+"PO-Revision-Date: 2022-11-03 11:09-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpotp.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-wp-otp.php:105
+msgid "Invalid OTP code. Must be 6 digits."
+msgstr ""
+
+#: class-wp-otp.php:109
+msgid "Wrong OTP code. Try again."
+msgstr ""
+
+#: class-wp-otp.php:154 class-wp-otp.php:164
+msgid ""
+"Your balance is empty. <a href=\"https://wpotp.com/\" target=\"_blank"
+"\">Visit our website and log in to your account to add funds</a>."
+msgstr ""
+
+#: class-wp-otp.php:181
+msgid "SMS OTP"
+msgstr ""
+
+#: class-wp-otp.php:201
+msgid "Resend code"
+msgstr ""
+
+#: class-wp-otp.php:208
+msgid "Need help? Documentation"
+msgstr ""
+
+#: class-wp-otp.php:291
+msgid "Wrong email or password."
+msgstr ""
+
+#: class-wp-otp.php:316
+msgid "Invalid email or password, please try again."
+msgstr ""
+
+#: class-wp-otp.php:346
+#, php-format
+msgid ""
+"Creating an account is 100% free and you get 25 SMS ($0.25) for free to test "
+"on your site. When your balance reaches 0, you can add funds to your account."
+msgstr ""
+
+#: class-wp-otp.php:347
+msgid ""
+"For the moment, we only accept phone numbers from the following countries:"
+msgstr ""
+
+#: class-wp-otp.php:347
+msgid "Canada and the United States"
+msgstr ""
+
+#: class-wp-otp.php:348
+msgid "The account creation is done through WordPress."
+msgstr ""
+
+#: class-wp-otp.php:354 class-wp-otp.php:382 class-wp-otp.php:406
+msgid "Email"
+msgstr ""
+
+#: class-wp-otp.php:362 class-wp-otp.php:390
+msgid "Password"
+msgstr ""
+
+#: class-wp-otp.php:366
+msgid "Must be at least 8 characters."
+msgstr ""
+
+#: class-wp-otp.php:372
+msgid "Create account"
+msgstr ""
+
+#: class-wp-otp.php:377
+msgid "Existing account"
+msgstr ""
+
+#: class-wp-otp.php:399
+msgid "Connect"
+msgstr ""
+
+#: class-wp-otp.php:410
+msgid "Your balance"
+msgstr ""
+
+#: class-wp-otp.php:418
+msgid "Logout"
+msgstr ""
+
+#: class-wp-otp.php:421
+msgid "Add funds to your account"
+msgstr ""
+
+#: class-wp-otp.php:443
+msgid "SMS 2FA"
+msgstr ""
+
+#: class-wp-otp.php:447
+msgid "Phone Number"
+msgstr ""
+
+#: class-wp-otp.php:452
+msgid "Set Phone Number"
+msgstr ""
+
+#: class-wp-otp.php:457
+msgid "Send verification code"
+msgstr ""
+
+#: class-wp-otp.php:458
+msgid "Send code"
+msgstr ""
+
+#: class-wp-otp.php:461 class-wp-otp.php:477
+msgid "Cancel phone number"
+msgstr ""
+
+#: class-wp-otp.php:462 class-wp-otp.php:478
+msgid "Cancel"
+msgstr ""
+
+#: class-wp-otp.php:468
+msgid "Verification code (6 digits)"
+msgstr ""
+
+#: class-wp-otp.php:473
+msgid "Verify phone number"
+msgstr ""
+
+#: class-wp-otp.php:474
+msgid "Verify"
+msgstr ""
+
+#: class-wp-otp.php:486
+msgid "Remove phone number"
+msgstr ""
+
+#: class-wp-otp.php:487
+msgid "Remove"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP One Time Password"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/wpotp/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Temporary passcode via text for a second authentication factor."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Francis Santerre"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://santerref.com/"
+msgstr ""
